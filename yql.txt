@@ -1,0 +1,2 @@
+Using YQL to make jquery ajax cross-domain requests
+  http://query.yahooapis.com/v1/public/yql?q=select * from html where url=http://massimomilan.com&format=xml&callback=?
